@@ -1,0 +1,11 @@
+﻿  game.cpp
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(29,13): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(71,28): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(113,29): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(131,28): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(171,29): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(292,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(368,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(667,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LENOVO\Desktop\Candy Crush\Candy Crush\game.cpp(701,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Candy Crush.vcxproj -> C:\Users\LENOVO\Desktop\Candy Crush\x64\Debug\Candy Crush.exe
